@@ -20,4 +20,6 @@ Step 4: PHP and HTML - Echo a sentence onto the page, while fetching a URL param
 
 Step 5: Separate PHP logic from Presentation - Creatie a new file, prepare a few variables, then load a separate "view" file to present the HTML
 
-Step 6: Prepare an array and load to a view. Within the view, cycle through the array. Three different methods were used to echo out each item on the list.
+Step 6: Arrays - Prepare an array and load to a view. Within the view, cycle through the array. Echo out each item on the list using three different methods.
+
+Step 7: Associative Arrays - Create an associative array. Add/ remove values ffrom a regular and assciative array. Fetch and echo values and key-value pairs in view file.
